@@ -17,7 +17,7 @@ Este projeto tem como objetivo guiar a criação de um ambiente no **Azure Data 
 - **Transforma** os dados conforme regras definidas;
 - **Entrega** os dados estruturados para uso em análises.
 
-![Criar um recurso](img/image1.png)
+![Criar um recurso](img/image01.png)
 
 ## 🎯 Objetivo do Projeto
 
@@ -51,11 +51,11 @@ Demonstrar, passo a passo, como criar manualmente um ambiente de Azure Data Fact
 
 No painel principal do Azure, clique em **"Criar um recurso"**.
 
-![Criar um recurso](img/image1.png)
+![Criar um recurso](img/image02.png)
 
 Pesquise por **"Data Factory"**, clique e selecione **"Criar"**.
 
-![Pesquisar Data Factory](img/image2.png)
+![Pesquisar Data Factory](img/image03.png)
 
 ---
 
