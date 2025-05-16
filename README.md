@@ -17,6 +17,8 @@ Este projeto tem como objetivo guiar a criação de um ambiente no **Azure Data 
 - **Transforma** os dados conforme regras definidas;
 - **Entrega** os dados estruturados para uso em análises.
 
+![Criar um recurso](img/image1.png)
+
 ## 🎯 Objetivo do Projeto
 
 Demonstrar, passo a passo, como criar manualmente um ambiente de Azure Data Factory pelo portal do Azure, com foco no monitoramento e controle de custos.
