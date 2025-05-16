@@ -67,7 +67,7 @@ Pesquise por **"Data Factory"**, clique e selecione **"Criar"**.
 - **Região:** Utilize regiões como `East US` ou `East US 2`.
 - **Versão:** Selecione **V2**.
 
-![Configurações básicas](img/image3.png)
+![Configurações básicas](img/image04.png)
 
 🔗 [Padrões de nomenclatura recomendados pela Microsoft](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)
 
@@ -79,19 +79,19 @@ Pesquise por **"Data Factory"**, clique e selecione **"Criar"**.
 
 Pode ser integrado posteriormente com GitHub ou Azure DevOps.
 
-![Configuração Git](img/image4.png)
+![Configuração Git](img/image05.png)
 
 #### Rede:
 
 Manter o padrão com **ponto de extremidade pública**.
 
-![Configuração de rede](img/image5.png)
+![Configuração de rede](img/image06.png)
 
 #### Avançado:
 
 Manter a configuração padrão de criptografia.
 
-![Configuração avançada](img/image6.png)
+![Configuração avançada](img/image07.png)
 
 #### Marcas (Tags):
 
@@ -101,7 +101,7 @@ Nome: DIO
 Valor: AZURE
 ```
 
-![Marcas/Tags](img/image7.png)
+![Marcas/Tags](img/image08.png)
 
 ---
 
@@ -111,7 +111,7 @@ Valor: AZURE
 - Valide as configurações.
 - Clique em **"Criar"**.
 
-![Examinar e criar](img/image8.png)
+![Examinar e criar](img/image09.png)
 
 ---
 
@@ -125,8 +125,8 @@ Vá em **"Gerenciamento de custos"** para:
 - Criar alertas e orçamentos;
 - Obter recomendações de compliance.
 
-![Gerenciamento de custos](img/image9.png)
-![Relatório de custos](img/image10.png)
+![Gerenciamento de custos](img/image10.png)
+![Relatório de custos](img/image11.png)
 
 ---
 
