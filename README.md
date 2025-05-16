@@ -57,6 +57,8 @@ Pesquise por **"Data Factory"**, clique e selecione **"Criar"**.
 
 ![Pesquisar Data Factory](img/image03.png)
 
+![Configurações básicas](img/image04.png)
+
 ---
 
 ### 3. Configuração Básica
