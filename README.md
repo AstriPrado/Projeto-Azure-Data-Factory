@@ -53,9 +53,11 @@ No painel principal do Azure, clique em **"Criar um recurso"**.
 
 ![Criar um recurso](img/image02.png)
 
-Pesquise por **"Data Factory"**, clique e selecione **"Criar"**.
+Pesquise por **"Data Factory"**, dê um clique na fábrica.
 
 ![Pesquisar Data Factory](img/image03.png)
+
+Aperte o botão **"Entrar"**.
 
 ![Configurações básicas](img/image04.png)
 
