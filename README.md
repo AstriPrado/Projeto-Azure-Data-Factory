@@ -105,11 +105,7 @@ Neste passo também optamos por manter a configuração padrão, mas é possíve
 
 #### Marcas (Tags):
 
-Exemplo:
-```text
-Nome: DIO
-Valor: AZURE
-```
+Assim como o grupo de recursos, as marcas são muito importantes para ajudar a separar e organizar os custos,dividindo por exemplo quais recursos foram utilizados por áreas como marketing, financeiro, logística. Com essa separação é possível gerar relatórios de centro de custos para melhor gerenciar os custos de utilização dos recursos.
 
 ![Marcas/Tags](img/image10.png)
 
@@ -117,9 +113,9 @@ Valor: AZURE
 
 ### 5. Finalizar a Criação
 
-- Clique em **"Examinar + Criar"**.
-- Valide as configurações.
-- Clique em **"Criar"**.
+Nesta aba o Azure fará uma validação de todas as configurações realizadas e avisará se está pronto ou não para utilizar o recurso. Aqui é possível baixar um template do código de todas as configurações realizadas na criação do recurso, clicando em “Baixar um modelo para automação”.
+
+Após a validação das configurações é só clicar no botão “Criar” na parte de baixo da tela.
 
 ![Examinar e criar](img/image11.png)
 
@@ -135,24 +131,10 @@ Vá em **"Gerenciamento de custos"** para:
 - Criar alertas e orçamentos;
 - Obter recomendações de compliance.
 
-![Gerenciamento de custos](img/image10.png)
-![Relatório de custos](img/image11.png)
-
----
-
-## 📄 Licença
-
-Este projeto segue a licença [MIT](LICENSE).
-
 ---
 
 ## 🙋‍♀️ Contribuindo
 
 Pull requests são bem-vindos! Para contribuições maiores, abra uma issue primeiro para discutir as mudanças propostas.
 
----
 
-## 🌐 Referências
-
-- [Microsoft Learn - Azure Data Factory](https://learn.microsoft.com/pt-br/azure/data-factory/)
-- [Documentação Oficial do Azure](https://learn.microsoft.com/pt-br/azure/)
