@@ -97,13 +97,11 @@ Pode ser integrado posteriormente com GitHub ou Azure DevOps.
 
 Manter o padrão com **ponto de extremidade pública**.
 
-![Configuração de rede](img/image06.png)
+![Configuração de rede](img/image09.png)
 
 #### Avançado:
 
 Manter a configuração padrão de criptografia.
-
-![Configuração avançada](img/image07.png)
 
 #### Marcas (Tags):
 
@@ -113,7 +111,7 @@ Nome: DIO
 Valor: AZURE
 ```
 
-![Marcas/Tags](img/image08.png)
+![Marcas/Tags](img/image10.png)
 
 ---
 
@@ -123,7 +121,7 @@ Valor: AZURE
 - Valide as configurações.
 - Clique em **"Criar"**.
 
-![Examinar e criar](img/image09.png)
+![Examinar e criar](img/image11.png)
 
 ---
 
