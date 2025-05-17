@@ -68,12 +68,16 @@ Aperte o botão **"Entrar"**.
 - **Assinatura:** Selecione sua assinatura.
 - **Grupo de Recursos:** Escolha um existente ou crie um novo (ex.: `rg-projeto-monitoramento`).
 - **Nome da Data Factory:** Use um nome padronizado (ex.: `adf-monitoramento-custos`).
-- **Região:** Utilize regiões como `East US` ou `East US 2`.
-- **Versão:** Selecione **V2**.
+- **Região:** Regiões como `East US` ou `East US 2`são as opções mais baratas (Em casos  onde o cliente não pode manter máquinas fora da região, exemplo: um Banco - mantenha a região da localização do cliente).
+- **Versão:** Selecione **V2** (a versão mais recente e recomendada).
 
 ![Configurações básicas](img/image05.png)
 
+**"Observação importante"**: Na criação de recursos e grupo de recursos é interessante manter um padrão para os nomes dos serviços e para ajudar nisso o Azure disponibiliza uma uma página de recomendações de abreviações de recursos Azure.
+
 🔗 [Padrões de nomenclatura recomendados pela Microsoft](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)
+
+No nosso exemplo de criação podemos verificar pelo print que o nome do grupo de recurso criado inicia com **“rg”** que significa “Resource Groups” e o nome do Data Factory inicia com **“adf”** que é a abreviação de “Azure Data Factory”
 
 ![Configuração de rede](img/image06.png)
 
