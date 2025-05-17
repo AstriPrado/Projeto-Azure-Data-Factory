@@ -71,9 +71,13 @@ Aperte o botão **"Entrar"**.
 - **Região:** Utilize regiões como `East US` ou `East US 2`.
 - **Versão:** Selecione **V2**.
 
-![Configurações básicas](img/image04.png)
+![Configurações básicas](img/image05.png)
 
 🔗 [Padrões de nomenclatura recomendados pela Microsoft](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)
+
+![Configuração de rede](img/image06.png)
+
+![Configuração avançada](img/image07.png)
 
 ---
 
@@ -83,7 +87,7 @@ Aperte o botão **"Entrar"**.
 
 Pode ser integrado posteriormente com GitHub ou Azure DevOps.
 
-![Configuração Git](img/image05.png)
+![Configuração Git](img/image08.png)
 
 #### Rede:
 
