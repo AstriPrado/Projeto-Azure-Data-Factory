@@ -105,7 +105,7 @@ Neste passo também optamos por manter a configuração padrão, mas é possíve
 
 #### Marcas (Tags):
 
-Assim como o grupo de recursos, as marcas são muito importantes para ajudar a separar e organizar os custos,dividindo por exemplo quais recursos foram utilizados por áreas como marketing, financeiro, logística. Com essa separação é possível gerar relatórios de centro de custos para melhor gerenciar os custos de utilização dos recursos.
+Assim como o grupo de recursos, as marcas são muito importantes para ajudar a separar e organizar os custos, dividindo por exemplo quais recursos foram utilizados por áreas como marketing, financeiro, logística. Com essa separação é possível gerar relatórios de centro de custos para melhor gerenciar os custos de utilização dos recursos.
 
 ![Marcas/Tags](img/image10.png)
 
@@ -113,7 +113,7 @@ Assim como o grupo de recursos, as marcas são muito importantes para ajudar a s
 
 ### 5. Finalizar a Criação
 
-Nesta aba o Azure fará uma validação de todas as configurações realizadas e avisará se está pronto ou não para utilizar o recurso. Aqui é possível baixar um template do código de todas as configurações realizadas na criação do recurso, clicando em “Baixar um modelo para automação”.
+Nesta aba o Azure executará uma validação de todas as configurações realizadas e avisará se está pronto ou não para utilizar o recurso. Aqui é possível baixar um template do código de todas as configurações realizadas na criação do recurso, clicando em “Baixar um modelo para automação”.
 
 Após a validação das configurações é só clicar no botão “Criar” na parte de baixo da tela.
 
