@@ -95,13 +95,13 @@ Pode ser integrado posteriormente com GitHub ou Azure DevOps.
 
 #### Rede:
 
-Manter o padrão com **ponto de extremidade pública**.
+Nesta aba é possível escolher a forma como irá se conectar. Em nosso teste escolhemos manter o padrão como **ponto de extremidade pública**.
 
 ![Configuração de rede](img/image09.png)
 
 #### Avançado:
 
-Manter a configuração padrão de criptografia.
+Neste passo também optamos por manter a configuração padrão, mas é possível incluir criptografia adicional a já fornecida pela Microsoft.
 
 #### Marcas (Tags):
 
