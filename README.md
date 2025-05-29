@@ -3,7 +3,7 @@
 
 ## 📌 Descrição
 
-Este projeto tem como objetivo guiar a criação de um ambiente no **Azure Data Factory (ADF)** para monitoramento de custos, utilizando o portal do Azure. Ele foi desenvolvido como parte das atividades do bootcamp **Microsoft AI for Tech – Azure Databricks**, promovido pela plataforma **DIO**.
+Este projeto tem como objetivo guiar a criação de um ambiente no **Azure Data Factory (ADF)**. Ele foi desenvolvido como parte das atividades do bootcamp **Microsoft AI for Tech – Azure Databricks**, promovido pela plataforma **DIO**.
 
 ## ☁️ O que é Azure e Azure Data Factory?
 
@@ -21,7 +21,7 @@ Este projeto tem como objetivo guiar a criação de um ambiente no **Azure Data 
 
 ## 🎯 Objetivo do Projeto
 
-Demonstrar, passo a passo, como criar manualmente um ambiente de Azure Data Factory pelo portal do Azure, com foco no monitoramento e controle de custos.
+Demonstrar, passo a passo, como criar manualmente um ambiente de Azure Data Factory pelo portal do Azure.
 
 ---
 
@@ -90,6 +90,8 @@ No nosso exemplo de criação podemos verificar pelo print que o nome do grupo d
 #### Git:
 
 Pode ser integrado posteriormente com GitHub ou Azure DevOps.
+
+🔗 [Acesse Aqui para ver o Passo a Passo da Integração com o Azure DevOps](https://github.com/AstriPrado/Integracao-do-Azure-Data-Factory-com-Azure-DevOps/tree/main)
 
 ![Configuração Git](img/image08.png)
 
